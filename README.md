@@ -9,4 +9,4 @@ M. Mahdian1, R. Noori2,3,*, M.M. Salamattalab1, E. Heggy4,5, S.M. Bateni6, M. Ho
 (7) School of Engineering, University of Warwick, Coventry CV4 7AL, UK.
 *Corresponding author: Roohollah Noori (noor@ut.ac.ir); ORCID: http://orcid.org/0000-0002-7463-8563
 
-This manuscript is submitted at Geophysical Research Letters
+This manuscript is submitted at Water Research
